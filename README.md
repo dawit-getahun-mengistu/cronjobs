@@ -3,7 +3,7 @@
 # To set up cronjobs
 ``` crontab -l```
 
-it will output "no crontab for user" or it will show the cronjobs that exist
+it will output "no crontab for user" for first time use, otherwise it will show the cronjobs that exist
 
 ``` crontab -e ```
 
